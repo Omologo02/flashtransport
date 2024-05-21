@@ -629,3 +629,16 @@ hr {
     top: 260px;
     left: 40px;
 }
+.benz {
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+}
+.benz1 {
+    width: 200px;
+    height: 100px;
+    background-color: aqua;
+}
+.benz2 {
+    font-size: 2rem;
+}
